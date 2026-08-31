@@ -7,7 +7,8 @@ Welcome to **Day 2** of my daily GitHub commit journey! 🚀
 Honestly Saying, I hit this one close to the wire — committed at **11 PM on 31st**, and honestly there was a moment I thought I wasn't going to make it today. But with consistent effort (and a little help from VS Code's built-in AI when I got stuck), I pulled it off. 💪
 
 Today I started building **v0.1** of an upcoming project — a stepping stone toward something bigger I have planned. This is a **CLI File Manager**, built with pure Python and the `sqlite3` module.
-
+##Disclaimer
+The . extension files are the files created during Testing of code and needs to be here for proper understanding of project
 ## 🛠️ What it does
 
 The project uses a database (`cli.db`) to store CRUD info about files, and is structured around 5 core functions + a `main()`:
